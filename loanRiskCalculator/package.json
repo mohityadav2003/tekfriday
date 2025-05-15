@@ -1,0 +1,21 @@
+{
+    "name": "loan-risk-calculator",
+    "version": "1.0.0",
+    "description": "A CLI tool to calculate loan risk score and classify it as LOW, MEDIUM, or HIGH.",
+    "main": "riskCalculator.js",
+    "scripts": {
+        "start": "node Calculator.js"
+    },
+    "keywords": [
+        "loan",
+        "risk",
+        "calculator",
+        "nodejs"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "csv-parser": "^3.2.0",
+        "json2csv": "^6.0.0-alpha.2"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "business-logic-risk-classifier",
+    "version": "1.0.0",
+    "description": "Automates loan EMI risk tagging for each record using risk score logic.",
+    "main": "classifyRisk.js",
+    "scripts": {
+        "start": "node classifyRisk.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "csv-parser": "^3.2.0",
+        "json2csv": "^6.0.0-alpha.2"
+    }
+}

@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Alice",
+      "missed_repayments": 1,
+      "loan_amount": 50000,
+      "collateral_value": 40000,
+      "interest": 10
+    },
+    {
+      "name": "Bob",
+      "missed_repayments": 3,
+      "loan_amount": 200000,
+      "collateral_value": 100000,
+      "interest": 12
+    },
+    {
+      "name": "Charlie",
+      "missed_repayments": 0,
+      "loan_amount": 30000,
+      "collateral_value": 60000,
+      "interest": 8
+    },
+    {
+      "name": "Deepika",
+      "missed_repayments": 2,
+      "loan_amount": 150000,
+      "collateral_value": 75000,
+      "interest": 9
+    },
+    {
+      "name": "Ethan",
+      "missed_repayments": 5,
+      "loan_amount": 500000,
+      "collateral_value": 100000,
+      "interest": 15
+    },
+    {
+      "name": "Fatima",
+      "missed_repayments": 0,
+      "loan_amount": 25000,
+      "collateral_value": 50000,
+      "interest": 7
+    },
+    {
+      "name": "Gaurav",
+      "missed_repayments": 4,
+      "loan_amount": 120000,
+      "collateral_value": 60000,
+      "interest": 13
+    },
+    {
+      "name": "Hannah",
+      "missed_repayments": 1,
+      "loan_amount": 100000,
+      "collateral_value": 120000,
+      "interest": 6
+    }
+  ]
+  

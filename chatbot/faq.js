@@ -1,0 +1,22 @@
+const faq = {
+    "what is emi": "EMI stands for Equated Monthly Installment. It's a fixed monthly payment made to repay a loan.",
+    "what is tenure": "Tenure is the total duration for which the loan is taken, usually in months or years.",
+    "what is interest": "Interest is the cost of borrowing money, usually expressed as a percentage of the loan amount.",
+    "what is collateral": "Collateral is an asset pledged to secure a loan, which the lender can seize if the borrower defaults.",
+    "what is principal": "Principal is the original loan amount borrowed before any interest is added.",
+    "what is down payment": "A down payment is an initial upfront portion of the total amount due, paid during the purchase of expensive items like a house or car.",
+    "what is credit score": "Credit score is a numerical expression based on credit history, used by lenders to assess creditworthiness.",
+    "what is default": "Default is the failure to repay a loan according to the agreed terms.",
+    "what is prepayment": "Prepayment is paying off a loan or part of it before the scheduled due date.",
+    "what is processing fee": "A processing fee is a one-time charge collected by lenders for processing a loan application.",
+    "what is fixed interest rate": "A fixed interest rate remains constant throughout the loan tenure.",
+    "what is floating interest rate": "A floating interest rate can change over time based on market conditions or benchmark rates.",
+    "what is loan sanction": "Loan sanction is the approval of a loan after evaluating the borrower’s creditworthiness and submitted documents.",
+    "what is disbursement": "Disbursement is the process of releasing the approved loan amount to the borrower.",
+    "what is repayment schedule": "A repayment schedule outlines the timeline and breakdown of EMI payments over the loan tenure.",
+    "what is loan foreclosure": "Loan foreclosure is the process of repaying the entire outstanding loan amount before the actual due date.",
+    "what is amortization": "Amortization is the process of gradually paying off a loan through regular payments over time.",
+    "what is grace period": "A grace period is a time after the due date during which a payment can be made without penalty.",
+    "what is loan-to-value ratio": "Loan-to-Value (LTV) ratio is the percentage of the loan amount compared to the appraised value of the asset.",
+    "what is co-applicant": "A co-applicant is a person who applies for a loan with the primary borrower and shares equal responsibility for repayment."
+  };

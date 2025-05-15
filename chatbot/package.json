@@ -1,0 +1,12 @@
+{
+    "name": "loanbot-chatbot",
+    "version": "1.0.0",
+    "description": "A console chatbot for answering loan-related queries",
+    "main": "chatbot.js",
+    "scripts": {
+      "start": "node chatbot.js"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  

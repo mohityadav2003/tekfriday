@@ -61,7 +61,7 @@ TekFriday/
 ## Contact
 
 For queries related to the project, contact:  
-**Your Name**  
+Mohit Yadav 
 Email: mohitjb07@gmail.com
 
 ---

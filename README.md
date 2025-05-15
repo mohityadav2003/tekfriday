@@ -50,6 +50,14 @@ TekFriday/
 
 ---
 
+## Reference Index
+
+- This project was developed with assistance from the following tools:
+  - [ChatGPT by OpenAI](https://chat.openai.com): Used for help to generate sample data for Business Logic Automation.
+  - Node.js & npm: JavaScript runtime and package manager used for running the console application.
+  - CSV Parser Libraries: Used to handle CSV support in Task 3.
+---
+
 ## Contact
 
 For queries related to the project, contact:  
